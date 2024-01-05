@@ -1,8 +1,8 @@
 const homeController = {
   handler: (request, h) => {
     return h.view('home/index', {
-      pageTitle: 'Home',
-      heading: 'Home'
+      pageTitle: 'Journey Test',
+      heading: 'Journey Test'
     })
   }
 }
